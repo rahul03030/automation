@@ -1,0 +1,10 @@
+url$1$https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI$
+url$2$https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01$
+url$3$https://www.moneycontrol.com/india/stockpricequote/cement-major/ultratechcement/UTC01$
+---Report---
+SBI 	$1,//*[@id='Bse_Prc_tick']/strong$  ^$1,//*[@id='Bse_Prc_tick']/strong$   ^$2,//*[@id='Bse_Prc_tick']/strong$
+	$1,//*[@id='Bse_Prc_tick']/strong$  
+HDFC 	$2,//*[@id='Bse_Prc_tick']/strong$  ^$1,//*[@id='Bse_Prc_tick']/strong$
+	$2,//*[@id='Bse_Prc_tick']/strong$
+HDFC 	$2,//*[@id='Bse1_Prc_tick234']/strong$
+	$2,//*[@id='Bse1_Prc_tick234']/strong$
